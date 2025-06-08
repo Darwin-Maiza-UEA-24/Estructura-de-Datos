@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Proyecto_Figuras _Geométricas/1.0.0": {
+        "runtime": {
+          "Proyecto_Figuras _Geométricas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Proyecto_Figuras _Geométricas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
