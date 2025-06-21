@@ -227,7 +227,7 @@ namespace MisDibujosEnCodigo // Nombre de "caja de figuras" donde se guarda las 
             }
 
             Console.WriteLine("\n--- ¡Gracias por ver mi programa! :) ---");
-            // Si ejecutas esto en un lugar donde la ventana se cierra muy rápido,
+            // Si la ventana se cierra muy rápido,
             // quita las "//" de la línea de abajo para que la ventana espere
             // a que presiones una tecla antes de desaparecer.
             // Console.ReadKey();
