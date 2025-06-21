@@ -4,7 +4,7 @@
 class Turno
 {
     public string nombre;
-    public string cédula;
+    public string cedula;
     public string fecha;
     public string hora;
 }
@@ -90,7 +90,7 @@ class MainApp
             Console.WriteLine();
 
             // Aquí dividimos las funciones con Andrés para probarlas por separado
-            if (opcion == 1)
+            if  (opcion == 1)
             {
                 agenda.AgendarTurno();
             }
