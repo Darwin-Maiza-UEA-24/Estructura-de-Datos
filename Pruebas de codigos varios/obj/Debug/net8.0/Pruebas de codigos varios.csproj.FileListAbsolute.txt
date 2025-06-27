@@ -1,0 +1,5 @@
+C:\Users\maiza\OneDrive\Documentos\03 Semestre UEA 03\Estructura de Datos\Proyectos- Estructuras de Datos\Nuevos Proyectos\Pruebas de codigos varios\obj\Debug\net8.0\Pruebas de codigos varios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiza\OneDrive\Documentos\03 Semestre UEA 03\Estructura de Datos\Proyectos- Estructuras de Datos\Nuevos Proyectos\Pruebas de codigos varios\obj\Debug\net8.0\Pruebas de codigos varios.AssemblyInfoInputs.cache
+C:\Users\maiza\OneDrive\Documentos\03 Semestre UEA 03\Estructura de Datos\Proyectos- Estructuras de Datos\Nuevos Proyectos\Pruebas de codigos varios\obj\Debug\net8.0\Pruebas de codigos varios.AssemblyInfo.cs
+C:\Users\maiza\OneDrive\Documentos\03 Semestre UEA 03\Estructura de Datos\Proyectos- Estructuras de Datos\Nuevos Proyectos\Pruebas de codigos varios\obj\Debug\net8.0\Pruebas de codigos varios.csproj.CoreCompileInputs.cache
+C:\Users\maiza\OneDrive\Documentos\03 Semestre UEA 03\Estructura de Datos\Proyectos- Estructuras de Datos\Nuevos Proyectos\Pruebas de codigos varios\obj\Debug\net8.0\Pruebas de codigos varios.sourcelink.json

@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("o matrices")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Pruebas de codigos varios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe459fefadccbe4502a1bde2bb97cc21fc6cde67")]
-[assembly: System.Reflection.AssemblyProductAttribute("o matrices")]
-[assembly: System.Reflection.AssemblyTitleAttribute("o matrices")]
+[assembly: System.Reflection.AssemblyProductAttribute("Pruebas de codigos varios")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Pruebas de codigos varios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

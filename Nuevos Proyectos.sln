@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "o matrices", "Arrays y\o ma
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Experimental#1_", "Experimental#1_\Experimental#1_.csproj", "{F064BA62-17C6-4714-A16E-2E666D4019BE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pruebas de codigos varios", "Pruebas de codigos varios\Pruebas de codigos varios.csproj", "{6163FF83-4A4F-4F29-831C-16AEACBD2B98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -35,6 +37,10 @@ Global
 		{F064BA62-17C6-4714-A16E-2E666D4019BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F064BA62-17C6-4714-A16E-2E666D4019BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F064BA62-17C6-4714-A16E-2E666D4019BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6163FF83-4A4F-4F29-831C-16AEACBD2B98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6163FF83-4A4F-4F29-831C-16AEACBD2B98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6163FF83-4A4F-4F29-831C-16AEACBD2B98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6163FF83-4A4F-4F29-831C-16AEACBD2B98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

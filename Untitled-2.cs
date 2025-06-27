@@ -1,4 +1,4 @@
-﻿//Programa que da marcha a la agenda de la clínica
+//Programa que da marcha a la agenda de la clínica
 System.Console.WriteLine("Universidad Estatal Amazónica");
 System.Console.WriteLine("=============================");
 System.Console.WriteLine();
