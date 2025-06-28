@@ -1,0 +1,479 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Nuevos Proyectos (Solution):Build",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Nuevos Proyectos.sln",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Nuevos Proyectos (Solution)"
+    },
+    {
+      "label": "Nuevos Proyectos (Solution):Clean",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "clean",
+        "${workspaceFolder}/Nuevos Proyectos.sln",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Nuevos Proyectos (Solution)"
+    },
+    {
+      "label": "Nuevos Proyectos (Solution):Rebuild",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Nuevos Proyectos.sln",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo",
+        "/target:rebuild"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Nuevos Proyectos (Solution)"
+    },
+    {
+      "label": "ConsoleApp1 (Project):Build",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/ConsoleApp1/ConsoleApp1.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "ConsoleApp1 (Project)"
+    },
+    {
+      "label": "ConsoleApp1 (Project):Clean",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "clean",
+        "${workspaceFolder}/ConsoleApp1/ConsoleApp1.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "ConsoleApp1 (Project)"
+    },
+    {
+      "label": "ConsoleApp1 (Project):Containerize",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/ConsoleApp1/ConsoleApp1.csproj",
+        "-c",
+        "Release",
+        "--os",
+        "linux",
+        "--arch",
+        "x64",
+        "/property:GenerateFullPaths=true",
+        "/property:PublishProfile=DefaultContainer",
+        "/property:ContainerArchiveOutputPath=./"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "ConsoleApp1 (Project)"
+    },
+    {
+      "label": "ConsoleApp1 (Project):Publish",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/ConsoleApp1/ConsoleApp1.csproj",
+        "-c",
+        "Release",
+        "--self-contained",
+        "true",
+        "/property:GenerateFullPaths=true"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "ConsoleApp1 (Project)"
+    },
+    {
+      "label": "ConsoleApp1 (Project):Rebuild",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/ConsoleApp1/ConsoleApp1.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo",
+        "/target:rebuild"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "ConsoleApp1 (Project)"
+    },
+    {
+      "label": "Experimental#1_ (Project):Build",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Experimental#1_/Experimental#1_.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Experimental#1_ (Project)"
+    },
+    {
+      "label": "Experimental#1_ (Project):Clean",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "clean",
+        "${workspaceFolder}/Experimental#1_/Experimental#1_.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Experimental#1_ (Project)"
+    },
+    {
+      "label": "Experimental#1_ (Project):Containerize",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Experimental#1_/Experimental#1_.csproj",
+        "-c",
+        "Release",
+        "--os",
+        "linux",
+        "--arch",
+        "x64",
+        "/property:GenerateFullPaths=true",
+        "/property:PublishProfile=DefaultContainer",
+        "/property:ContainerArchiveOutputPath=./"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Experimental#1_ (Project)"
+    },
+    {
+      "label": "Experimental#1_ (Project):Publish",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Experimental#1_/Experimental#1_.csproj",
+        "-c",
+        "Release",
+        "--self-contained",
+        "true",
+        "/property:GenerateFullPaths=true"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Experimental#1_ (Project)"
+    },
+    {
+      "label": "Experimental#1_ (Project):Rebuild",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Experimental#1_/Experimental#1_.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo",
+        "/target:rebuild"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Experimental#1_ (Project)"
+    },
+    {
+      "label": "o matrices (Project):Build",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Arrays y/o matrices/o matrices.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "o matrices (Project)"
+    },
+    {
+      "label": "o matrices (Project):Clean",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "clean",
+        "${workspaceFolder}/Arrays y/o matrices/o matrices.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "o matrices (Project)"
+    },
+    {
+      "label": "o matrices (Project):Containerize",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Arrays y/o matrices/o matrices.csproj",
+        "-c",
+        "Release",
+        "--os",
+        "linux",
+        "--arch",
+        "x64",
+        "/property:GenerateFullPaths=true",
+        "/property:PublishProfile=DefaultContainer",
+        "/property:ContainerArchiveOutputPath=./"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "o matrices (Project)"
+    },
+    {
+      "label": "o matrices (Project):Publish",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Arrays y/o matrices/o matrices.csproj",
+        "-c",
+        "Release",
+        "--self-contained",
+        "true",
+        "/property:GenerateFullPaths=true"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "o matrices (Project)"
+    },
+    {
+      "label": "o matrices (Project):Rebuild",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Arrays y/o matrices/o matrices.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo",
+        "/target:rebuild"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "o matrices (Project)"
+    },
+    {
+      "label": "Pruebas de codigos varios (Project):Build",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Pruebas de codigos varios/Pruebas de codigos varios.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Pruebas de codigos varios (Project)"
+    },
+    {
+      "label": "Pruebas de codigos varios (Project):Clean",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "clean",
+        "${workspaceFolder}/Pruebas de codigos varios/Pruebas de codigos varios.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Pruebas de codigos varios (Project)"
+    },
+    {
+      "label": "Pruebas de codigos varios (Project):Containerize",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Pruebas de codigos varios/Pruebas de codigos varios.csproj",
+        "-c",
+        "Release",
+        "--os",
+        "linux",
+        "--arch",
+        "x64",
+        "/property:GenerateFullPaths=true",
+        "/property:PublishProfile=DefaultContainer",
+        "/property:ContainerArchiveOutputPath=./"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Pruebas de codigos varios (Project)"
+    },
+    {
+      "label": "Pruebas de codigos varios (Project):Publish",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "publish",
+        "${workspaceFolder}/Pruebas de codigos varios/Pruebas de codigos varios.csproj",
+        "-c",
+        "Release",
+        "--self-contained",
+        "true",
+        "/property:GenerateFullPaths=true"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Pruebas de codigos varios (Project)"
+    },
+    {
+      "label": "Pruebas de codigos varios (Project):Rebuild",
+      "type": "process",
+      "command": "dotnet.exe",
+      "args": [
+        "build",
+        "${workspaceFolder}/Pruebas de codigos varios/Pruebas de codigos varios.csproj",
+        "/property:GenerateFullPaths=true",
+        "/consoleloggerparameters:NoSummary;ForceNoAlign;",
+        "/nologo",
+        "/target:rebuild"
+      ],
+      "options": {
+        "env": {
+          "DOTNET_CLI_UI_LANGUAGE": "en-US"
+        }
+      },
+      "problemMatcher": "$msCompile",
+      "detail": "Pruebas de codigos varios (Project)"
+    }
+  ]
+}

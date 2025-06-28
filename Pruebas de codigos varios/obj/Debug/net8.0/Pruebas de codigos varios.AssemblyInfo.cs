@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Pruebas de codigos varios")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe459fefadccbe4502a1bde2bb97cc21fc6cde67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e80903d2cf6d564f8f5ce026149fb99c9fcea60")]
 [assembly: System.Reflection.AssemblyProductAttribute("Pruebas de codigos varios")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Pruebas de codigos varios")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
