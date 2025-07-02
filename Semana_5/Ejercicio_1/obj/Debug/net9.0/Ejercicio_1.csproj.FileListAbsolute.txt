@@ -12,3 +12,4 @@ c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.pdb
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.genruntimeconfig.cache
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\ref\Ejercicio_1.dll
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.sourcelink.json
