@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maiza\\OneDrive\\Documentos\\03 Semestre UEA 03\\Estructura de Datos\\Proyectos- Estructuras de Datos\\Nuevos Proyectos\\Experimental#1_\\Experimental#1_.csproj": {}
+    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Experimental#1_\\Experimental#1_.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maiza\\OneDrive\\Documentos\\03 Semestre UEA 03\\Estructura de Datos\\Proyectos- Estructuras de Datos\\Nuevos Proyectos\\Experimental#1_\\Experimental#1_.csproj": {
+    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Experimental#1_\\Experimental#1_.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maiza\\OneDrive\\Documentos\\03 Semestre UEA 03\\Estructura de Datos\\Proyectos- Estructuras de Datos\\Nuevos Proyectos\\Experimental#1_\\Experimental#1_.csproj",
+        "projectUniqueName": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Experimental#1_\\Experimental#1_.csproj",
         "projectName": "Experimental#1_",
-        "projectPath": "C:\\Users\\maiza\\OneDrive\\Documentos\\03 Semestre UEA 03\\Estructura de Datos\\Proyectos- Estructuras de Datos\\Nuevos Proyectos\\Experimental#1_\\Experimental#1_.csproj",
+        "projectPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Experimental#1_\\Experimental#1_.csproj",
         "packagesPath": "C:\\Users\\maiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maiza\\OneDrive\\Documentos\\03 Semestre UEA 03\\Estructura de Datos\\Proyectos- Estructuras de Datos\\Nuevos Proyectos\\Experimental#1_\\obj\\",
+        "outputPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Experimental#1_\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net8.0": {
@@ -53,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[8.0.17, 8.0.17]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.410/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
