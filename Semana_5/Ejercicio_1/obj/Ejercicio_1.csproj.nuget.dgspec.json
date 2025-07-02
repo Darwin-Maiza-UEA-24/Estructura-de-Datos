@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Semana_5.csproj": {}
+    "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Semana_5.csproj": {
+    "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Semana_5.csproj",
-        "projectName": "Semana_5",
-        "projectPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Semana_5.csproj",
+        "projectUniqueName": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
+        "projectName": "Ejercicio_1",
+        "projectPath": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
         "packagesPath": "C:\\Users\\maiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\obj\\",
+        "outputPath": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
