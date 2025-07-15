@@ -46,7 +46,7 @@ class ParentesisBalanceados
     // Este es el método principal del programa, el que se ejecuta primero
     static void Main()
     {
-        // Encabezado de Institución
+        // Mostramos encabezado de la institución
         Console.WriteLine("Universidad Estatal Amazónica");
         Console.WriteLine("==============================");
 
