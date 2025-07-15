@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj": {}
+    "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj": {}
   },
   "projects": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj": {
+    "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj",
+        "projectUniqueName": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj",
         "projectName": "Uso de pilas (stacks)",
-        "projectPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj",
+        "projectPath": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\Uso de pilas (stacks).csproj",
         "packagesPath": "C:\\Users\\maiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\obj\\",
+        "outputPath": "c:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_7\\Uso de pilas (stacks)\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
