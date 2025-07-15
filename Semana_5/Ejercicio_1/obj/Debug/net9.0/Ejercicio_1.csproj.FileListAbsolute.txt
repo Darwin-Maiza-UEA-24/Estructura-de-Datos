@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.exe
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.deps.json
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.runtimeconfig.json
@@ -13,3 +14,20 @@ c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.genruntimeconfig.cache
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\ref\Ejercicio_1.dll
 c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.sourcelink.json
+=======
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.exe
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.deps.json
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.runtimeconfig.json
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.dll
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\bin\Debug\net9.0\Ejercicio_1.pdb
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.AssemblyInfoInputs.cache
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.AssemblyInfo.cs
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.csproj.CoreCompileInputs.cache
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.dll
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\refint\Ejercicio_1.dll
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.pdb
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.genruntimeconfig.cache
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\ref\Ejercicio_1.dll
+c:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Semana_5\Ejercicio_1\obj\Debug\net9.0\Ejercicio_1.sourcelink.json
+>>>>>>> 916dc7e071af9511c1ff7afd3930be17863cad55

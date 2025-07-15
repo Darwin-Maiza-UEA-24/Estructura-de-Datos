@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "version": 2,
   "dgSpecHash": "1cz4Zo4/uuI=",
@@ -5,4 +6,13 @@
   "projectFilePath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+{
+  "version": 2,
+  "dgSpecHash": "1cz4Zo4/uuI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
+  "expectedPackageFiles": [],
+  "logs": []
+>>>>>>> 916dc7e071af9511c1ff7afd3930be17863cad55
 }
