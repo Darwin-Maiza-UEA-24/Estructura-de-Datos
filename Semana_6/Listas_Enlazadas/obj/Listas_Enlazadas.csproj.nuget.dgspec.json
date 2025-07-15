@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj": {}
+    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_6\\Listas_Enlazadas\\Listas_Enlazadas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj": {
+    "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_6\\Listas_Enlazadas\\Listas_Enlazadas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
-        "projectName": "Ejercicio_1",
-        "projectPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\Ejercicio_1.csproj",
+        "projectUniqueName": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_6\\Listas_Enlazadas\\Listas_Enlazadas.csproj",
+        "projectName": "Listas_Enlazadas",
+        "projectPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_6\\Listas_Enlazadas\\Listas_Enlazadas.csproj",
         "packagesPath": "C:\\Users\\maiza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_5\\Ejercicio_1\\obj\\",
+        "outputPath": "C:\\Users\\maiza\\Visual Studio Code\\Estructura_Datos\\Estructura-de-Datos\\Semana_6\\Listas_Enlazadas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\maiza\\AppData\\Roaming\\NuGet\\NuGet.Config"
