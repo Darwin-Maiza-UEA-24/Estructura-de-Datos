@@ -21,3 +21,11 @@ C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Experimen
 C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.dll
 C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\refint\Experimental#1_.dll
 C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.pdb
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.AssemblyInfoInputs.cache
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.AssemblyInfo.cs
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.csproj.CoreCompileInputs.cache
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.sourcelink.json
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.dll
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\refint\Experimental#1_.dll
+C:\Users\maiza\Visual Studio Code\Estructura_Datos\Estructura-de-Datos\Estructura-de-Datos\Experimental#1_\obj\Debug\net8.0\Experimental#1_.pdb
